@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/az400dd/Parts%20Unlimited/_apis/build/status/daved78.pipelines-java?branchName=master)](https://dev.azure.com/az400dd/Parts%20Unlimited/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
